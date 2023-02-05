@@ -1,6 +1,6 @@
 import { init } from "@rematch/core";
-import example from "./example/index";
+import Banks from "./Banks/index";
 const store = init({
-  models: { example },
+  models: { Banks },
 });
 export default store;

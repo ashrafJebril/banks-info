@@ -189,4 +189,4 @@ class Apis {
   }
 }
 
-module.exports = Apis;
+export default Apis;
